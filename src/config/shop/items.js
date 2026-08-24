@@ -1,7 +1,7 @@
 export const shopItems = [
     {
         id: 'extra_work',
-        name: 'Extra Work Shift',
+        name: '50% xp boost 30 minutes',
         price: 5000,
         description: 'Allows 1 extra use of the `/work` command.',
         type: 'consumable',
