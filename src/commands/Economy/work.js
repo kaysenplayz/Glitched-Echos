@@ -21,6 +21,9 @@ const WORK_JOBS = [
     "Librarian",
     "Gardener",
     "Data Analyst",
+    "Glitched Echos Staff"
+    "No lifing"
+    "idk free money"
 ];
 
 export default {
